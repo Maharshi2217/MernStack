@@ -1,0 +1,7 @@
+1-how to customise bootstrap components
+2-what is cookies
+3-adding border to container
+4-strict mode in java script
+You can use strict mode in all your programs. It helps you to write cleaner code, like preventing you from using undeclared variables.
+"use strict";
+x = 3.14;       // This will cause an error because x is not declared
