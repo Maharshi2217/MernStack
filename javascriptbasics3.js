@@ -22,3 +22,4 @@ for (let i = 0; i < 5; i++) {
   str = str + i;
 }
 console.log(str);
+console.log(str+"");
